@@ -18,7 +18,7 @@ DenseNet 169 (k=32)| 76.09| 93.14| [caffemodel (54.6  MB)](https://drive.google.
 DenseNet 201 (k=32)| 77.31| 93.64| [caffemodel (77.3  MB)](https://drive.google.com/open?id=0B7ubpZO7HnlCV3pud2oyR3lNMWs)| [netscope](http://ethereon.github.io/netscope/#/gist/ee808e19615844b8dbc7b13e92abd233)
 DenseNet 161 (k=48)| 77.64| 93.79| [caffemodel (110 MB)](https://drive.google.com/open?id=0B7ubpZO7HnlCa0phRGJIRERoTXM)| [netscope](http://ethereon.github.io/netscope/#/gist/8fae97d9c66b40b8da443f7f23e9b29b)
 
-**Update** (July 27, 2017): for your convenience, we also provide a link to these models on [Baidu Disk](http://pan.baidu.com/s/1pLNVAL9).
+**Update** (July 27, 2017): for your convenience, we also provide a link to these models on [Baidu Disk](https://pan.baidu.com/s/1gfjD8cF).
 
 ### Notes
 Due to compatibility reasons, several modifications have been made:
