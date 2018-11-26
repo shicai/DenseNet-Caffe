@@ -13,10 +13,10 @@ The top-1/5 accuracy rates by using single center crop (crop size: 224x224, imag
 
 Network|Top-1|Top-5|Download|Architecture
 :---:|:---:|:---:|:---:|:---:
-DenseNet 121 (k=32)| 74.91| 92.19| [caffemodel (30.8  MB)](https://drive.google.com/open?id=0B7ubpZO7HnlCcHlfNmJkU2VPelE)| [netscope](http://ethereon.github.io/netscope/#/gist/4928834eca7f06261ba0558e0ff63a6a)
-DenseNet 169 (k=32)| 76.09| 93.14| [caffemodel (54.6  MB)](https://drive.google.com/open?id=0B7ubpZO7HnlCRWVVdUJjVVAyQXc)| [netscope](http://ethereon.github.io/netscope/#/gist/71335b6e8634327c9b9216619572b3dd)
-DenseNet 201 (k=32)| 77.31| 93.64| [caffemodel (77.3  MB)](https://drive.google.com/open?id=0B7ubpZO7HnlCV3pud2oyR3lNMWs)| [netscope](http://ethereon.github.io/netscope/#/gist/ee808e19615844b8dbc7b13e92abd233)
-DenseNet 161 (k=48)| 77.64| 93.79| [caffemodel (110 MB)](https://drive.google.com/open?id=0B7ubpZO7HnlCa0phRGJIRERoTXM)| [netscope](http://ethereon.github.io/netscope/#/gist/8fae97d9c66b40b8da443f7f23e9b29b)
+DenseNet 121 (k=32)| 74.91| 92.19| [caffemodel (30.8  MB)](https://drive.google.com/open?id=0B7ubpZO7HnlCcHlfNmJkU2VPelE)| [netscope](http://ethereon.github.io/netscope/#/gist/4928834eca7f06261ba0558e0ff63a6a), [netron](http://lutzroeder.github.io/netron?gist=4928834eca7f06261ba0558e0ff63a6a)
+DenseNet 169 (k=32)| 76.09| 93.14| [caffemodel (54.6  MB)](https://drive.google.com/open?id=0B7ubpZO7HnlCRWVVdUJjVVAyQXc)| [netscope](http://ethereon.github.io/netscope/#/gist/71335b6e8634327c9b9216619572b3dd), [netron](http://lutzroeder.github.io/netron?gist=71335b6e8634327c9b9216619572b3dd)
+DenseNet 201 (k=32)| 77.31| 93.64| [caffemodel (77.3  MB)](https://drive.google.com/open?id=0B7ubpZO7HnlCV3pud2oyR3lNMWs)| [netscope](http://ethereon.github.io/netscope/#/gist/ee808e19615844b8dbc7b13e92abd233), [netron](http://lutzroeder.github.io/netron?gist=ee808e19615844b8dbc7b13e92abd233)
+DenseNet 161 (k=48)| 77.64| 93.79| [caffemodel (110 MB)](https://drive.google.com/open?id=0B7ubpZO7HnlCa0phRGJIRERoTXM)| [netscope](http://ethereon.github.io/netscope/#/gist/8fae97d9c66b40b8da443f7f23e9b29b), [netron](http://lutzroeder.github.io/netron?gist=8fae97d9c66b40b8da443f7f23e9b29b)
 
 **Update** (July 27, 2017): for your convenience, we also provide a link to these models on [Baidu Disk](https://pan.baidu.com/s/1gfjD8cF).
 
