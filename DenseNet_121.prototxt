@@ -51,7 +51,7 @@ layer {
     kernel_size: 3
     stride: 2
     pad: 1
-    ceil_mode: false
+    round_mode: FLOOR
   }
 }
 layer {
