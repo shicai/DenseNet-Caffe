@@ -24,4 +24,4 @@ DenseNet 161 (k=48)| 77.64| 93.79| [caffemodel (110 MB)](https://drive.google.co
 Due to compatibility reasons, several modifications have been made:
 - BGR mean values **[103.94,116.78,123.68]** are subtracted
 - **scale: 0.017** is used, instead of the original std values for image preprocessing
-- **ceil_mode: false** is used in the first pooling layers ('pool1') 
+- **round_mode: FLOOR** is used in the first pooling layers ('pool1')
